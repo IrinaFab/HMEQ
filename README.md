@@ -1,5 +1,5 @@
 # HMEQ
-##Tree based models - Home Equity Loan Dataset
+## Tree based models - Home Equity Loan Dataset
 
 <img width="1032" alt="Screen Shot 2022-05-11 at 2 28 38 PM" src="https://user-images.githubusercontent.com/90358148/167960014-dc7b5b31-6196-4bb2-a347-e0d504d2db5c.png">
 
