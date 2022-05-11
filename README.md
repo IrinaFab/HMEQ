@@ -9,7 +9,9 @@ Develop a decision tree to predict the probability of default
 Develop a decision tree to predict the loss amount assuming that the loan defaults
 Display the Decision Tree using Graphviz
 
-<img width="1397" alt="tree" src="https://user-images.githubusercontent.com/90358148/167959563-d9a16454-b096-4157-9408-8aca1f63415c.png">
+<img width="1391" alt="tree" src="https://user-images.githubusercontent.com/90358148/167959793-51f16a60-8e72-4d6e-b3e6-1c4662e3ccf6.png">
+
+
 
 <img width="1390" alt="amount" src="https://user-images.githubusercontent.com/90358148/167959579-487336ea-d20a-43a3-9f0d-8da5e2365208.png">
 
